@@ -76,3 +76,36 @@
     left: 535px;
     text-decoration: underline;
 }
+
+.image__text-8
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: white;
+    position: absolute;
+    top: 250px;
+    left: 735px;
+    text-decoration: underline;
+}
+
+.image__text-9
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: white;
+    position: absolute;
+    top: 460px;
+    left: 40px;
+    text-decoration: underline;
+}
+
+.image__text-10
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: white;
+    position: absolute;
+    top: 460px;
+    left: 245px;
+    text-decoration: underline;
+}
