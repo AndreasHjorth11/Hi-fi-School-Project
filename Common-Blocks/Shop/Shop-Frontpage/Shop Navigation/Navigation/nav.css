@@ -1,0 +1,9 @@
+
+.shop__front-navigation
+{
+    border: solid;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
