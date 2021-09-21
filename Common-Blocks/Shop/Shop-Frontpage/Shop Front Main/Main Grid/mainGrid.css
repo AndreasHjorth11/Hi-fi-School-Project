@@ -1,0 +1,7 @@
+.shop__front-main
+{
+    display: grid;
+    grid-template-columns: 520px 200px 200px;
+    grid-template-rows: 60px 100px 100px;
+    gap: 0px;
+}
