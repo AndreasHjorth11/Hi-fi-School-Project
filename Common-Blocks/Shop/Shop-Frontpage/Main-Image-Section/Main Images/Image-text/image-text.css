@@ -1,7 +1,45 @@
-.img__text
+.image__text-1
 {
-    font-family: Arial;
-    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
     color: white;
     position: absolute;
+    top: 60px;
+    left: 20px;
+    text-decoration: underline;
+}
+
+
+.image__text-2
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 270px;
+    text-decoration: underline;
+}
+
+
+.image__text-3
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 500px;
+    text-decoration: underline;
+}
+
+.image__text-4
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    color: white;
+    position: absolute;
+    top: 60px;
+    left: 715px;
+    text-decoration: underline;
 }
