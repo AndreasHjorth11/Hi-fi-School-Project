@@ -1,0 +1,13 @@
+.shop__header-logo
+{
+    width: 100px;
+    height: 100px;
+}
+
+.header__logo
+{
+    width: 60px;
+    object-fit: cover;
+    margin-top: 40px;
+    margin-left: 20px;
+}
