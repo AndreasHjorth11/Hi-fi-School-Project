@@ -1,0 +1,13 @@
+.shop__header-links
+{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin-top: -100px;
+    margin-right: 70px;
+    font-size: 25px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    list-style-type: none;
+}
