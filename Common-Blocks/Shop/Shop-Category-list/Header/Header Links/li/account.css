@@ -1,0 +1,17 @@
+
+.header__links-list
+{
+    margin: 10px;
+}
+
+.links__list-account
+{
+    margin: 10px;
+    cursor: pointer;
+}
+
+.header__links-account
+{
+    margin: 10px;
+    cursor: pointer;
+}

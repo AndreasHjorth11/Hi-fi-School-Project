@@ -1,0 +1,46 @@
+{
+    "shop" : [
+        {
+            "id" : "Sort by Brand",
+            "title" : "Sort by Brand",
+            "images" : [
+                "/Assets/Images/Background/slide-2.jpg"
+            ]
+        },
+        {
+            "id" : "Amplifiers",
+            "title" : "Amplifier",
+            "images" : [
+                "/Assets/Images/Power-Amplifiers/manley_mahi.jpg"
+            ]
+        },
+        {
+            "id" : "Speakers",
+            "title" : "Speakers",
+            "images" : [
+                "/Assets/Images/Speakers/JBL_Quantum_Duo_Lifestyle_03_904x560px.png"
+            ]
+        },
+        {
+            "id" : "Turntables",
+            "title" : "Turntables",
+            "images" : [
+                "/Assets/Images/Turntables/denondj-img-tuvl12sec.jpg"
+            ]
+        },
+        {
+            "id" : "CD-Players",
+            "title" : "CD-Players",
+            "images" : [
+                "/Assets/Images/CD-Players/4.jpg"
+            ]
+        },
+        {
+            "id" : "TV",
+            "title" : "TV",
+            "images" : [
+                "/Assets/Images/TV/suhd9500_004.jpg"
+            ]
+        }
+    ]
+}
