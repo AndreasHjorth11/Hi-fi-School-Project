@@ -1,9 +1,11 @@
 .links__list-phone
 {
     margin: 10px;
+    cursor: pointer;
 }
 
 .header__links-phone
 {
     margin: 10px;
+    cursor: pointer;
 }

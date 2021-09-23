@@ -7,9 +7,11 @@
 .links__list-account
 {
     margin: 10px;
+    cursor: pointer;
 }
 
 .header__links-account
 {
     margin: 10px;
+    cursor: pointer;
 }

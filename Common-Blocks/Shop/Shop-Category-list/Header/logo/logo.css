@@ -10,4 +10,5 @@
     object-fit: cover;
     margin-top: 40px;
     margin-left: 20px;
+    cursor: pointer;
 }
