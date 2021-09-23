@@ -1,8 +1,15 @@
 
+.footer__container
+{
+    position: relative;
+}
+
 .shop__front-footer
 {
     background-color: sandybrown;
     width: 100%;
     height: 100px;
     opacity: 70%;
+    position: absolute;
+    bottom: -500px;
 }
