@@ -1,0 +1,12 @@
+.shop__category-products
+{
+    max-width: 1000px;
+    height: 1000px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0px;
+    margin-left: 26%;
+    margin-top: -76rem;
+}

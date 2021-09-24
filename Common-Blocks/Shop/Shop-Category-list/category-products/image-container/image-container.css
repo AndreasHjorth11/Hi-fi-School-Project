@@ -1,0 +1,7 @@
+.product__image-container
+{
+    height: 160px;
+    position: absolute;
+    width: 200px;
+    border: lightgrey solid;
+}
