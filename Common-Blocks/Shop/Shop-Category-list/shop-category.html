@@ -34,6 +34,8 @@
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/li/products-li.css">
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/ul/products-ul.css">
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/item-info/product-specs.css">
+
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/Sidebar/amplifier-products/sidebar-title.css">
     <title>Shop Category</title>
 
     <script src="https://kit.fontawesome.com/9b6654b16d.js" crossorigin="anonymous"></script>
@@ -63,7 +65,7 @@
             <li class="navigation__list-item">BRANDS</li>
             <li class="navigation__list-item">BLOG</li>
             <li class="navigation__list-item">EVENTS</li>
-            <li class="navigation__list-item shop">SHOP</li>
+            <a href="/Common-Blocks/Shop/Shop-Frontpage/shop-front.html" style="text-decoration: none;"><li class="navigation__list-item shop">SHOP</li></a>
             <li class="navigation__list-item">CONTACT US</li>
         </ul>
     </nav>
@@ -73,13 +75,17 @@
                 <a href="/index.html" style="text-decoration: none; color: yellowgreen;">Home</a>
             </li>
             <vr style="font-weight: bold; font-size: 20px;"> / </vr>
-            <li class="item__category">
+            <li id="item__category" class="item__category">
                 <strong class="category__amplifiers">(...)</strong>
             </li>
         </ul>
     </section>
 <section class="shop__category-sidebar">
-
+    <ul class="sidebar__ul">
+        <li class="sidebar__li">
+            <p class="sidebar__category-title_amplifier">Amplifier</p>
+        </li>
+    </ul>
 </section>
 <section class="shop__category-widebar">
     <div id="widebar__title">

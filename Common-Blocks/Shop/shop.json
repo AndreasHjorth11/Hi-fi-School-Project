@@ -41,6 +41,13 @@
             "images" : [
                 "/Assets/Images/TV/suhd9500_004.jpg"
             ]
+        },
+        {
+            "id" : "DVD-Players",
+            "title" : "DVD-Players",
+            "images" : [
+                "/Assets/Images/TV/suhd9500_004.jpg"
+            ]
         }
     ]
 }
