@@ -1,0 +1,37 @@
+.product__specs
+{
+    height: 100%;
+    border: lightgrey solid thin;
+    width: 200px;
+    position: absolute;
+}
+
+.product__title
+{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 170px;
+    margin-left: 30px;
+}
+
+.product__price
+{
+    margin-left: 40%;
+    font-size: 17px;
+    color: burlywood;
+}
+
+.product__buy-button
+{
+    margin-top: 0px;
+    margin-left: 25%;
+    background-color: burlywood;
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    border-style: none;
+    cursor: pointer;
+}

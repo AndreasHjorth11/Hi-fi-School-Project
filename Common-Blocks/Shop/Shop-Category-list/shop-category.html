@@ -26,6 +26,18 @@
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/breadcrumbs/ul/breadcrumbs-items.css">
 
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/Widebar/widebar.css">
+
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/article/category-products.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/image-container/image-container.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/image-container/product-image.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/item-info/item-info.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/li/products-li.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/ul/products-ul.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/category-products/item-info/product-specs.css">
+
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/Sidebar/amplifier-products/sidebar-title.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/Sidebar/Li/sidebar-list.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/Sidebar/Li/amplifiers/amplifier-items.css">
     <title>Shop Category</title>
 
     <script src="https://kit.fontawesome.com/9b6654b16d.js" crossorigin="anonymous"></script>
@@ -55,7 +67,7 @@
             <li class="navigation__list-item">BRANDS</li>
             <li class="navigation__list-item">BLOG</li>
             <li class="navigation__list-item">EVENTS</li>
-            <li class="navigation__list-item shop">SHOP</li>
+            <a href="/Common-Blocks/Shop/Shop-Frontpage/shop-front.html" style="text-decoration: none;"><li class="navigation__list-item shop">SHOP</li></a>
             <li class="navigation__list-item">CONTACT US</li>
         </ul>
     </nav>
@@ -65,19 +77,194 @@
                 <a href="/index.html" style="text-decoration: none; color: yellowgreen;">Home</a>
             </li>
             <vr style="font-weight: bold; font-size: 20px;"> / </vr>
-            <li class="item__category">
-                <strong class="category__amplifiers">Amplifiers</strong>
+            <li id="item__category" class="item__category">
+                <strong class="category__amplifiers">(...)</strong>
             </li>
         </ul>
     </section>
-<section class="shop__category-sidebar">
-
+    
+    <section class="shop__category-sidebar">
+    <ul class="sidebar__ul">
+        <li id="sidebar__li" class="sidebar__li">
+            <p class="sidebar__category-title">Amplifier</p>
+            <p class="amplifier__items">Integrated Amplifiers</p>
+            <p class="amplifier__items">Power Amplifiers</p>
+            <p class="amplifier__items">Pre Amplifiers</p>
+            <p class="amplifier__items">Tube Amplifiers</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">Speakers</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">Turntables</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">CD-Players</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">DVD-Players</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">Cables</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">TV</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">Vinyl</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">Home Cinema</p>
+        </li>
+        <li class="sidebar__li">
+            <p class="sidebar__category-title">Headphones</p>
+        </li>
+    </ul>
 </section>
 <section class="shop__category-widebar">
-    <strong class="widebar__title">Amplifiers</strong>
+    <div id="widebar__title">
+        <strong class="widebar__title">(...)</strong>
+    </div>
 </section>
 <section class="shop__category-sidebar2">
 
 </section>
+<article class="shop__category-products">
+    <!-- <ul class="products__ul"> -->
+        <!-- <li class="products__li"> -->
+            <div id="item__product" class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/600-watts-stereo-power-amplifier-bluetooth-receiver-w-microphone-inputs-mp3usbsdaux-playback-pt506bt-home-theater-audio-various_1024x1024.png">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/yamaha-n803-black.w293.h293.backdrop.jpg">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/600-watts-stereo-power-amplifier-bluetooth-receiver-w-microphone-inputs-mp3usbsdaux-playback-pt506bt-home-theater-audio-various_1024x1024.png">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/yamaha-n803-black.w293.h293.backdrop.jpg">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+            
+            <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/600-watts-stereo-power-amplifier-bluetooth-receiver-w-microphone-inputs-mp3usbsdaux-playback-pt506bt-home-theater-audio-various_1024x1024.png">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+
+            <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/600-watts-stereo-power-amplifier-bluetooth-receiver-w-microphone-inputs-mp3usbsdaux-playback-pt506bt-home-theater-audio-various_1024x1024.png">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+
+            <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/yamaha-n803-black.w293.h293.backdrop.jpg">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+
+            <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/yamaha-n803-black.w293.h293.backdrop.jpg">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+
+             <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/600-watts-stereo-power-amplifier-bluetooth-receiver-w-microphone-inputs-mp3usbsdaux-playback-pt506bt-home-theater-audio-various_1024x1024.png">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+            
+            <div class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/600-watts-stereo-power-amplifier-bluetooth-receiver-w-microphone-inputs-mp3usbsdaux-playback-pt506bt-home-theater-audio-various_1024x1024.png">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+
+            <div id="item__product" class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/600-watts-stereo-power-amplifier-bluetooth-receiver-w-microphone-inputs-mp3usbsdaux-playback-pt506bt-home-theater-audio-various_1024x1024.png">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+
+            <div id="item__product" class="product__item-info">
+                <span class="product__image-container">
+                    <img class="product__image" src="/Assets/Images/Power-Amplifiers/600-watts-stereo-power-amplifier-bluetooth-receiver-w-microphone-inputs-mp3usbsdaux-playback-pt506bt-home-theater-audio-various_1024x1024.png">
+                </span>
+                <div class="product__specs">
+                    <p class="product__title">Manley Neoclassic</p>
+                    <p class="product__price">499$</p>
+                    <button class="product__buy-button">ADD TO CART</button>
+                </div>
+            </div>
+        <!-- </li> -->
+    <!-- </ul> -->
+   
+</article>
+<script src="/Common-Blocks/Shop/Shop-Category-list/category.js"></script>
+<script src="/Common-Blocks/Shop/Shop-Category-list/category__main.js"></script>
 </body>
 </html>

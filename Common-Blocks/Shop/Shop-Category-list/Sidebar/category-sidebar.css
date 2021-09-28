@@ -5,6 +5,7 @@
     margin-top: 30px;
     margin-left: 50px;
     background-color: lightgrey;
+    display: flex;
 }
 
 .shop__category-sidebar2
