@@ -13,24 +13,28 @@
             "images" : [
                 "/Assets/Images/Power-Amplifiers/manley_mahi.jpg"
             ],
-            "thumbnails" : [
-                "/Assets/Images/Cables/cr=w_1240,h_620.jpg",
-                "/Assets/Images/Power-Amplifiers/manley_mahi.jpg"
-            ]
+                "thumbnails" : "/Assets/Images/Power-Amplifiers/yamaha-n803-black.w293.h293.backdrop.jpg",
+                "product1" : "Amplifier 3000"
         },
         {
             "id" : "Speakers",
             "title" : "Speakers",
             "images" : [
                 "/Assets/Images/Speakers/JBL_Quantum_Duo_Lifestyle_03_904x560px.png"
-            ]
+            ],
+                "thumbnails" : "/Assets/Images/Speakers/harbeth_p3es2.jpg",
+                "product1" : "Harbeth P3ES2",
+                "price" : "349$"
         },
         {
             "id" : "Turntables",
             "title" : "Turntables",
             "images" : [
                 "/Assets/Images/Turntables/denondj-img-tuvl12sec.jpg"
-            ]
+            ],
+                "thumbnails" : "/Assets/Images/Turntables/Pro_ject_rpm_5.jpg",
+                "product1" : "Turntable 9055"
+
         },
         {
             "id" : "CD-Players",
