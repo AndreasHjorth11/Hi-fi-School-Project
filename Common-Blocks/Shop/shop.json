@@ -12,6 +12,10 @@
             "title" : "Amplifiers",
             "images" : [
                 "/Assets/Images/Power-Amplifiers/manley_mahi.jpg"
+            ],
+            "thumbnails" : [
+                "/Assets/Images/Cables/cr=w_1240,h_620.jpg",
+                "/Assets/Images/Power-Amplifiers/manley_mahi.jpg"
             ]
         },
         {
