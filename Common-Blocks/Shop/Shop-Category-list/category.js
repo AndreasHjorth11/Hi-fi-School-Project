@@ -31,8 +31,8 @@ fetch('/Common-Blocks/Shop/shop.json')
                 <img class="product__image" src="${element.thumbnails}">
             </span>
             <div class="product__specs">
-                <p class="product__title">Manley Neoclassic</p>
-                <p class="product__price">499$</p>
+                <p class="product__title">${element.product1}</p>
+                <p class="product__price">${element.price}</p>
                 <button class="product__buy-button">ADD TO CART</button>
             </div>
             </div>
