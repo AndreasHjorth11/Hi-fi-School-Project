@@ -1,0 +1,15 @@
+.widebar__items
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+    margin-left: -30px;
+}
+
+.widebar__items-2
+{
+    display: flex;
+    justify-content: flex-end;
+    width: 40%;
+    margin-left: 210px;
+}

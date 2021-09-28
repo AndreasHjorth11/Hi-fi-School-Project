@@ -1,0 +1,19 @@
+.widebar__item-button1
+{
+    height: 20px;
+    width: 80px;
+    border-radius: 0px;
+    margin-top: 13px;
+    margin-left: -20px;
+    border: solid thin;
+}
+
+.widebar__item2-button
+{
+    height: 20px;
+    width: 80px;
+    border-radius: 0px;
+    margin-top: 13px;
+    margin-left: 30px;
+    border: solid thin;
+}
