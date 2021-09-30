@@ -1,33 +1,29 @@
 {
     "shop" : [
         {
-            "id" : "Sort by Brand",
-            "title" : "Sort by Brand",
-            "images" : [
-                "/Assets/Images/Background/slide-2.jpg"
-            ]
-        },
-        {
-            "id" : "Amplifiers",
-            "title" : "Amplifiers",
-            "images" : [
-                "/Assets/Images/Power-Amplifiers/manley_mahi.jpg"
-            ],
-                "thumbnails" : "/Assets/Images/Power-Amplifiers/yamaha-n803-black.w293.h293.backdrop.jpg",
-                "product1" : "Amplifier 3000"
-        },
-        {
-            "id" : "Speakers",
+            "id" : 1,
             "title" : "Speakers",
-            "images" : [
-                "/Assets/Images/Speakers/JBL_Quantum_Duo_Lifestyle_03_904x560px.png"
-            ],
-                "thumbnails" : "/Assets/Images/Speakers/harbeth_p3es2.jpg",
-                "product1" : "Harbeth P3ES2",
+            "thumbnails" : "harbeth_hl7es2.jpg",
+            "productTitle" : "Amplifier 3000",
+            "price" : "349$"
+        },
+        {
+            "id" : 2,
+            "title" : "Speakers",
+                "thumbnails" : "epos_m5.gif",
+                "productTitle" : "Amplifier 3000",
                 "price" : "349$"
         },
         {
-            "id" : "Turntables",
+            "id" : 3,
+            "title" : "Speakers",
+            "productTitle" : "Harbeth P3ES2",
+            "thumbnails" : "harbeth_p3es2.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "349$"
+        },
+        {
+            "id" : 4,
             "title" : "Turntables",
             "images" : [
                 "/Assets/Images/Turntables/denondj-img-tuvl12sec.jpg"
@@ -37,25 +33,27 @@
 
         },
         {
-            "id" : "CD-Players",
+            "id" : 5,
             "title" : "CD-Players",
             "images" : [
                 "/Assets/Images/CD-Players/4.jpg"
             ]
         },
         {
-            "id" : "TV",
+            "id" : 6,
             "title" : "TV",
             "images" : [
                 "/Assets/Images/TV/suhd9500_004.jpg"
             ]
         },
         {
-            "id" : "DVD-Players",
+            "id" : 7,
             "title" : "DVD-Players",
             "images" : [
                 "/Assets/Images/TV/suhd9500_004.jpg"
             ]
         }
+ 
     ]
+    
 }
