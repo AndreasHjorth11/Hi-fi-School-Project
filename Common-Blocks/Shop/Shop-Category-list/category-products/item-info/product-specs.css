@@ -8,23 +8,27 @@
 
 .product__title
 {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     margin-top: 170px;
-    margin-left: 30px;
+    display: flex;
+    justify-content: center;
 }
 
 .product__price
 {
-    margin-left: 40%;
+    margin-left: 0%;
     font-size: 17px;
     color: burlywood;
+    display: flex;
+    justify-content: center;
 }
 
 .product__buy-button
 {
-    margin-top: 0px;
+    position: absolute;
+    margin-top: -10px;
     margin-left: 25%;
     background-color: burlywood;
     width: 100px;
