@@ -3,55 +3,69 @@
         {
             "id" : 1,
             "title" : "Speakers",
-            "thumbnails" : "harbeth_hl7es2.jpg",
-            "productTitle" : "Amplifier 3000",
-            "price" : "349$"
+            "thumbnails" : "epos_m5.gif",
+            "productTitle" : "Epos M5",
+            "price" : "399$"
         },
         {
             "id" : 2,
             "title" : "Speakers",
-                "thumbnails" : "epos_m5.gif",
-                "productTitle" : "Amplifier 3000",
+                "thumbnails" : "harbeth_p3es2.jpg",
+                "productTitle" : "Harbeth P3ES2",
                 "price" : "349$"
         },
         {
             "id" : 3,
             "title" : "Speakers",
             "productTitle" : "Harbeth P3ES2",
-            "thumbnails" : "harbeth_p3es2.jpg",
+            "thumbnails" : "harbeth_hl7es2.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "349$"
         },
         {
             "id" : 4,
-            "title" : "Turntables",
-            "images" : [
-                "/Assets/Images/Turntables/denondj-img-tuvl12sec.jpg"
-            ],
-                "thumbnails" : "/Assets/Images/Turntables/Pro_ject_rpm_5.jpg",
-                "product1" : "Turntable 9055"
+            "title" : "Speakers",
+            "productTitle" : "Harbeth P3ES2",
+            "thumbnails" : "1-14.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "349$"
 
         },
         {
             "id" : 5,
-            "title" : "CD-Players",
-            "images" : [
-                "/Assets/Images/CD-Players/4.jpg"
-            ]
+            "title" : "Speakers",
+            "productTitle" : "Harbeth P3ES2",
+            "thumbnails" : "red.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "699$"
+
         },
         {
             "id" : 6,
-            "title" : "TV",
-            "images" : [
-                "/Assets/Images/TV/suhd9500_004.jpg"
-            ]
+            "title" : "Amplifiers",
+            "productTitle" : "Creek OPH 2",
+            "thumbnails" : "creek oph2.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "199$"
+
         },
         {
             "id" : 7,
-            "title" : "DVD-Players",
-            "images" : [
-                "/Assets/Images/TV/suhd9500_004.jpg"
-            ]
+            "title" : "Amplifiers",
+            "productTitle" : "Creek A50I",
+            "thumbnails" : "creek_a50i.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "199$"
+
+        },
+        {
+            "id" : 8,
+            "title" : "Amplifiers",
+            "productTitle" : "Manley Mahi",
+            "thumbnails" : "manley_mahi.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "299$"
+
         }
  
     ]

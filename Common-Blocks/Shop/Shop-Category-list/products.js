@@ -28,7 +28,7 @@ fetch('/Common-Blocks/Shop/shop.json')
             itemProduct.innerHTML += `
                 <div id="item__product" class="product__item-info">
                     <span class="product__image-container">
-                        <img class="product__image" src="/Assets/Images/Speakers/${element.thumbnails}">
+                        <img class="product__image" src="/Assets/Images/Products/${element.thumbnails}">
                     </span>
                     <div class="product__specs">
                         <p class="product__title">${element.productTitle}</p>
