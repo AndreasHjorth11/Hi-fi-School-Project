@@ -41,6 +41,22 @@
 
         },
         {
+            "id" : 8,
+            "title" : "Amplifiers",
+            "productTitle" : "Marshall MG50GFX",
+            "thumbnails" : "marshall-mg50.webp",
+            "description" : "Marshall MG50GFX",
+            "price" : "729$"
+        },
+        {
+            "id" : 12,
+            "title" : "Amplifiers",
+            "productTitle" : "Marshall DSL100HR",
+            "thumbnails" : "marshall-dsl.jpg",
+            "description" : "Marshall DSL100HR",
+            "price" : "699$"
+        },
+        {
             "id" : 6,
             "title" : "Amplifiers",
             "productTitle" : "Creek OPH 2",
@@ -59,13 +75,30 @@
 
         },
         {
-            "id" : 8,
+            "id" : 9,
+            "title" : "Amplifiers",
+            "productTitle" : "Manley Stingray II",
+            "thumbnails" : "Manley-Stingray2.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "5900$"
+
+        },
+        {
+            "id" : 10,
+            "title" : "Amplifiers",
+            "productTitle" : "Fenton AV120BT Hifi Amplifier",
+            "thumbnails" : "AV120BT.jpg",
+            "description" : "Fenton AV120BT Hifi Amplifier",
+            "price" : "700$"
+
+        },
+        {
+            "id" : 11,
             "title" : "Amplifiers",
             "productTitle" : "Manley Mahi",
             "thumbnails" : "manley_mahi.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "299$"
-
         }
  
     ]
