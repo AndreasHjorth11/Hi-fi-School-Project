@@ -26,6 +26,7 @@ fetch('/Common-Blocks/Shop/shop.json')
         if(element.title == category){
             console.log("test")
             itemProduct.innerHTML += `
+            <a href="/Common-Blocks/Shop/Shop-Details/details.html?category=${element.id}" style="text-decoration: none; color: black;">
                 <div id="item__product" class="product__item-info">
                     <span class="product__image-container">
                         <img class="product__image" src="/Assets/Images/Products/${element.thumbnails}">
@@ -36,20 +37,8 @@ fetch('/Common-Blocks/Shop/shop.json')
                         <button class="product__buy-button">ADD TO CART</button>
                     </div>
                 </div>
+            </a>
         `;
-        //     itemProduct.innerHTML = `
-        //     <a href="/Common-Blocks/Shop/Shop-Frontpage/shop-front.html" style="text-decoration: none; color: black;">
-        //     <div id="item__product" class="product__item-info">
-        //         <span class="product__image-container">
-        //             <img class="product__image" src="${element.thumbnail}">
-        //         </span>
-        //         <div class="product__specs">
-        //             <p class="product__title">${element.productTitle}</p>
-        //             <p class="product__price">${element.price}</p>
-        //             <button class="product__buy-button">ADD TO CART</button>
-        //         </div>
-        //     </div></a>
-        // `;
         }
     });
 });
