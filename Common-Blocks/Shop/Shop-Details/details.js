@@ -21,10 +21,21 @@ fetch('/Common-Blocks/Shop/shop.json')
             Details.innerHTML += ` 
             <section class="main__description">
                 <strong class="product__title-details">${element.productTitle}</strong>
-                <div class="details__Sub">
+                <div class="details__sub">
                 <p class="details__subTitle">See other ${element.manufacture} products</p>
+                <p class="details__price">${element.price}</p>
                 </div>
                 <p class="details__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut cupiditate doloremque dolorem sapiente qui sequi inventore quaerat, delectus, corrupti, ea placeat iure eaque explicabo esse animi consequatur fugiat sit beatae!</p>
+                <div class="details__description-buttons">
+                    <button class="description__button">ASK A QUESTION</button>
+                    <button class="description__button">PART EXCHANGE</button>
+                    <button class="description__button">PAY BY FINANCE</button>
+                    <button class="description__button">SEEN A BETTER PRICE?</button>
+                </div>      
+
+                <section class="details__purchase">
+                
+                </section>
             </section>
             `;
         }
