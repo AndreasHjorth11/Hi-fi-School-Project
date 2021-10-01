@@ -1,0 +1,8 @@
+.product__details-main
+{
+    border: red solid;
+    height: 900px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
