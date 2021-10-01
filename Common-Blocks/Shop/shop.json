@@ -5,7 +5,8 @@
             "title" : "Speakers",
             "thumbnails" : "epos_m5.gif",
             "productTitle" : "Epos M5",
-            "price" : "399$"
+            "price" : "399$",
+            "manufacture" : "Epos"
         },
         {
             "id" : 2,
@@ -13,7 +14,8 @@
             "productTitle" : "Epos Encore 50",
             "thumbnails" : "epos encore50.jpg",
             "description" : "Epos Encore 50",
-            "price" : "1399$"
+            "price" : "1399$",
+            "manufacture" : "Epos"
             
         },
         {
@@ -21,8 +23,9 @@
             "title" : "Speakers",
             "productTitle" : "Epos ELS 3",
             "thumbnails" : "epos-els3.jpg",
-            "description" : "Harbeth P3ES2",
-            "price" : "699$"
+            "description" : "EPOS ELS 3",
+            "price" : "699$",
+            "manufacture" : "Epos"
         
         },
         {
@@ -30,159 +33,204 @@
             "title" : "Speakers",
             "thumbnails" : "epos-k2.jpg",
             "productTitle" : "Epos K2 Floorspeaker",
-            "price" : "1499$"
+            "price" : "1499$",
+            "manufacture" : "Epos"
         },
         {
-            "id" : 3,
+            "id" : 5,
             "title" : "Speakers",
             "productTitle" : "Harbeth HL7ES2",
             "thumbnails" : "harbeth_hl7es2.jpg",
             "description" : "Harbeth P3ES2",
-            "price" : "499$"
+            "price" : "499$",
+            "manufacture" : "Harbeth"
         },
         {
-            "id" : 4,
+            "id" : 6,
             "title" : "Speakers",
             "productTitle" : "Harbeth Monitor 30",
             "thumbnails" : "harbeth_monitor30.jpg",
             "description" : "Harbeth P3ES2",
-            "price" : "549$"
-
-        },
-        {
-            "id" : 5,
-            "title" : "Speakers",
-            "productTitle" : "Harbeth P3ES2",
-            "thumbnails" : "harbeth_p3es2.jpg",
-            "description" : "Harbeth P3ES2",
-            "price" : "699$"
-
-        },
-        {
-            "id" : 5,
-            "title" : "Speakers",
-            "productTitle" : "Harbeth BBC LS5",
-            "thumbnails" : "harbeth bbc.jpg",
-            "description" : "Harbeth P3ES2",
-            "price" : "699$"
-
-        },
-        {
-            "id" : 5,
-            "title" : "Speakers",
-            "productTitle" : "Harbeth BBC LS5",
-            "thumbnails" : "red.jpg",
-            "description" : "Harbeth P3ES2",
-            "price" : "1599$"
+            "price" : "549$",
+            "manufacture" : "Harbeth"
 
         },
         {
             "id" : 7,
-            "title" : "Amplifiers",
-            "productTitle" : "Marshall MG50GFX",
-            "thumbnails" : "marshall-mg50.webp",
-            "description" : "Marshall MG50GFX",
-            "price" : "799$"
+            "title" : "Speakers",
+            "productTitle" : "Harbeth P3ES2",
+            "thumbnails" : "harbeth_p3es2.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "699$",
+            "manufacture" : "Harbeth"
+
         },
         {
             "id" : 8,
-            "title" : "Amplifiers",
-            "productTitle" : "Marshall DSL100HR",
-            "thumbnails" : "marshall-dsl.jpg",
-            "description" : "Marshall DSL100HR",
-            "price" : "699$"
+            "title" : "Speakers",
+            "productTitle" : "Harbeth BBC LS5",
+            "thumbnails" : "harbeth bbc.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "699$",
+            "manufacture" : "Harbeth"
+
         },
         {
             "id" : 9,
-            "title" : "Amplifiers",
-            "productTitle" : "Marshall JVM410H",
-            "thumbnails" : "marshall-m4.webp",
-            "description" : "Marshall DSL100HR",
-            "price" : "899$"
+            "title" : "Speakers",
+            "productTitle" : "Kanto YU6 Bookshelf Speaker",
+            "thumbnails" : "kanto.jpg",
+            "description" : "Kanto YU6",
+            "price" : "479$",
+            "manufacture" : "Kanto"
         },
         {
             "id" : 10,
             "title" : "Amplifiers",
-            "productTitle" : "Marshall MG30GFX",
-            "thumbnails" : "marshall-mg30.webp",
-            "description" : "Marshall DSL100HR",
-            "price" : "699$"
+            "productTitle" : "Marshall MG50GFX",
+            "thumbnails" : "marshall-mg50.webp",
+            "description" : "Marshall MG50GFX",
+            "price" : "799$",
+            "manufacture" : "Marshall"
         },
         {
             "id" : 11,
             "title" : "Amplifiers",
-            "productTitle" : "Creek OPH 2",
-            "thumbnails" : "creek oph2.jpg",
-            "description" : "Harbeth P3ES2",
-            "price" : "199$"
-
+            "productTitle" : "Marshall DSL100HR",
+            "thumbnails" : "marshall-dsl.jpg",
+            "description" : "Marshall DSL100HR",
+            "price" : "699$",
+            "manufacture" : "Marshall"
         },
         {
             "id" : 12,
             "title" : "Amplifiers",
-            "productTitle" : "Creek A50I",
-            "thumbnails" : "creek_a50i.jpg",
-            "description" : "Harbeth P3ES2",
-            "price" : "199$"
-
+            "productTitle" : "Marshall JVM410H",
+            "thumbnails" : "marshall-m4.webp",
+            "description" : "Marshall DSL100HR",
+            "price" : "899$",
+            "manufacture" : "Marshall"
         },
         {
             "id" : 13,
             "title" : "Amplifiers",
-            "productTitle" : "Creek Classic 5350SE",
-            "thumbnails" : "creek_classic5350SE.jpg",
-            "description" : "Harbeth P3ES2",
-            "price" : "139$"
-
+            "productTitle" : "Marshall MG30GFX",
+            "thumbnails" : "marshall-mg30.webp",
+            "description" : "Marshall DSL100HR",
+            "price" : "699$",
+            "manufacture" : "Marshall"
         },
         {
             "id" : 14,
             "title" : "Amplifiers",
-            "productTitle" : "Creek Destiny",
-            "thumbnails" : "creek_destinyamp.jpg",
+            "productTitle" : "Creek OPH 2",
+            "thumbnails" : "creek oph2.jpg",
             "description" : "Harbeth P3ES2",
-            "price" : "169$"
+            "price" : "199$",
+            "manufacture" : "Creek"
 
         },
         {
             "id" : 15,
             "title" : "Amplifiers",
-            "productTitle" : "Manley Stingray",
-            "thumbnails" : "Manley_Stingray.jpg",
-            "description" : "Manley Stingray",
-            "price" : "699$"
+            "productTitle" : "Creek A50I",
+            "thumbnails" : "creek_a50i.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "199$",
+            "manufacture" : "Creek"
+
         },
         {
             "id" : 16,
             "title" : "Amplifiers",
-            "productTitle" : "Manley Stingray II",
-            "thumbnails" : "Manley-stingray2.jpg",
-            "description" : "Manley Stingray II",
-            "price" : "1299$"
+            "productTitle" : "Creek Classic 5350SE",
+            "thumbnails" : "creek_classic5350SE.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "139$",
+            "manufacture" : "Creek"
+
         },
         {
             "id" : 17,
             "title" : "Amplifiers",
-            "productTitle" : "Manley Mahi",
-            "thumbnails" : "manley_mahi.jpg",
+            "productTitle" : "Creek Destiny",
+            "thumbnails" : "creek_destinyamp.jpg",
             "description" : "Harbeth P3ES2",
-            "price" : "299$"
+            "price" : "169$",
+            "manufacture" : "Creek"
+
         },
         {
             "id" : 18,
             "title" : "Amplifiers",
-            "productTitle" : "Manley Neoclassic 300B",
-            "thumbnails" : "manley_neoclassic300b.jpg",
-            "description" : "Manley Neoclassic",
-            "price" : "499$"
+            "productTitle" : "Manley Stingray",
+            "thumbnails" : "Manley_Stingray.jpg",
+            "description" : "Manley Stingray",
+            "price" : "699$",
+            "manufacture" : "Manley"
         },
         {
             "id" : 19,
+            "title" : "Amplifiers",
+            "productTitle" : "Manley Stingray II",
+            "thumbnails" : "Manley-stingray2.jpg",
+            "description" : "Manley Stingray II",
+            "price" : "1299$",
+            "manufacture" : "Manley"
+        },
+        {
+            "id" : 20,
+            "title" : "Amplifiers",
+            "productTitle" : "Manley Mahi",
+            "thumbnails" : "manley_mahi.jpg",
+            "description" : "Harbeth P3ES2",
+            "price" : "299$",
+            "manufacture" : "Manley"
+        },
+        {
+            "id" : 21,
+            "title" : "Amplifiers",
+            "productTitle" : "Manley Neoclassic 300B",
+            "thumbnails" : "manley_neoclassic300b.jpg",
+            "description" : "Manley Neoclassic",
+            "price" : "499$",
+            "manufacture" : "Manley"
+        },
+        {
+            "id" : 22,
             "title" : "Turntables",
             "productTitle" : "Dual DTJ 303",
             "thumbnails" : "dual dti.webp",
             "description" : "Dual DTJ 303",
-            "price" : "899$"
+            "price" : "899$",
+            "manufacture" : "Dual"
+        },
+        {
+            "id" : 23,
+            "title" : "TV",
+            "productTitle" : "Sony ZH8 Smart 8k",
+            "thumbnails" : "tv 8k.webp",
+            "description" : "Sony ZH8 Smart 8k",
+            "price" : "2499$",
+            "manufacture" : "Sony"
+        },
+        {
+            "id" : 24,
+            "title" : "TV",
+            "productTitle" : "Sony XH85 4K Ultra HD",
+            "thumbnails" : "sony4k.webp",
+            "description" : "Sony XH85 4K Ultra HD",
+            "price" : "1899$",
+            "manufacture" : "Sony"
+        },
+        {
+            "id" : 25,
+            "title" : "TV",
+            "productTitle" : "Sony KE-48A9 OLED",
+            "thumbnails" : "sony3.jpg",
+            "description" : "Sony KE-48A9 OLED",
+            "price" : "1299$",
+            "manufacture" : "Sony"
         }
  
     ]

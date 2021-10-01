@@ -1,0 +1,31 @@
+.main__description
+{
+    border: green solid;
+    height: 900px;
+    width: 45%;
+    order: 2;
+    display: inline;
+}
+
+.product__title-details
+{
+    font-size: 40px;
+    margin-left: 50px;
+    color: rgb(248, 181, 93);
+}
+
+.details__subTitle
+{
+    font-size: 30px;
+    margin-top: 60px;
+    margin-left: -100px;
+    color: rgb(248, 181, 93);
+}
+
+.details__description
+{
+    font-size: 22px;
+    width: 650px;
+    margin-left: 50px;
+    margin-top: 20px;
+}

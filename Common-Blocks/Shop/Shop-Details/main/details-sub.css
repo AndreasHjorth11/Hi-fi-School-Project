@@ -1,0 +1,13 @@
+.details__sub
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.details__price
+{
+    color: burlywood;
+    margin-top: 60px;
+    font-size: 30px;
+}
+
