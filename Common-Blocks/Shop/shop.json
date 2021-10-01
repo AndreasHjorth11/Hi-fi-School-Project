@@ -204,6 +204,33 @@
             "description" : "Dual DTJ 303",
             "price" : "899$",
             "manufacture" : "Dual"
+        },
+        {
+            "id" : 23,
+            "title" : "TV",
+            "productTitle" : "Sony ZH8 Smart 8k",
+            "thumbnails" : "tv 8k.webp",
+            "description" : "Sony ZH8 Smart 8k",
+            "price" : "2499$",
+            "manufacture" : "Sony"
+        },
+        {
+            "id" : 24,
+            "title" : "TV",
+            "productTitle" : "Sony XH85 4K Ultra HD",
+            "thumbnails" : "sony4k.webp",
+            "description" : "Sony XH85 4K Ultra HD",
+            "price" : "1899$",
+            "manufacture" : "Sony"
+        },
+        {
+            "id" : 25,
+            "title" : "TV",
+            "productTitle" : "Sony KE-48A9 OLED",
+            "thumbnails" : "sony3.jpg",
+            "description" : "Sony KE-48A9 OLED",
+            "price" : "1299$",
+            "manufacture" : "Sony"
         }
  
     ]
