@@ -6,7 +6,11 @@
             "thumbnails" : "epos_m5.gif",
             "productTitle" : "Epos M5",
             "price" : "399$",
-            "manufacture" : "Epos"
+            "manufacture" : "Epos",
+            "warranty" : "3 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 2,
@@ -15,7 +19,11 @@
             "thumbnails" : "epos encore50.jpg",
             "description" : "Epos Encore 50",
             "price" : "1399$",
-            "manufacture" : "Epos"
+            "manufacture" : "Epos",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "2-5 Working Days",
+            "cardSurcharges" : "No"
             
         },
         {
@@ -25,7 +33,11 @@
             "thumbnails" : "epos-els3.jpg",
             "description" : "EPOS ELS 3",
             "price" : "699$",
-            "manufacture" : "Epos"
+            "manufacture" : "Epos",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
         
         },
         {
@@ -34,7 +46,11 @@
             "thumbnails" : "epos-k2.jpg",
             "productTitle" : "Epos K2 Floorspeaker",
             "price" : "1499$",
-            "manufacture" : "Epos"
+            "manufacture" : "Epos",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "5-10 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 5,
@@ -43,7 +59,11 @@
             "thumbnails" : "harbeth_hl7es2.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "499$",
-            "manufacture" : "Harbeth"
+            "manufacture" : "Harbeth",
+            "warranty" : "1 Year",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "Yes"
         },
         {
             "id" : 6,
@@ -52,7 +72,11 @@
             "thumbnails" : "harbeth_monitor30.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "549$",
-            "manufacture" : "Harbeth"
+            "manufacture" : "Harbeth",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "2-5 Working Days",
+            "cardSurcharges" : "No"
 
         },
         {
@@ -62,7 +86,11 @@
             "thumbnails" : "harbeth_p3es2.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "699$",
-            "manufacture" : "Harbeth"
+            "manufacture" : "Harbeth",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
 
         },
         {
@@ -72,7 +100,11 @@
             "thumbnails" : "harbeth bbc.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "699$",
-            "manufacture" : "Harbeth"
+            "manufacture" : "Harbeth",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
 
         },
         {
@@ -82,7 +114,11 @@
             "thumbnails" : "kanto.jpg",
             "description" : "Kanto YU6",
             "price" : "479$",
-            "manufacture" : "Kanto"
+            "manufacture" : "Kanto",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "2-4 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 10,
@@ -91,7 +127,11 @@
             "thumbnails" : "marshall-mg50.webp",
             "description" : "Marshall MG50GFX",
             "price" : "799$",
-            "manufacture" : "Marshall"
+            "manufacture" : "Marshall",
+            "warranty" : "3 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "5-10 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 11,
@@ -100,7 +140,11 @@
             "thumbnails" : "marshall-dsl.jpg",
             "description" : "Marshall DSL100HR",
             "price" : "699$",
-            "manufacture" : "Marshall"
+            "manufacture" : "Marshall",
+            "warranty" : "3 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "5-10 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 12,
@@ -109,7 +153,11 @@
             "thumbnails" : "marshall-m4.webp",
             "description" : "Marshall DSL100HR",
             "price" : "899$",
-            "manufacture" : "Marshall"
+            "manufacture" : "Marshall",
+            "warranty" : "4 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "1-10 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 13,
@@ -118,7 +166,11 @@
             "thumbnails" : "marshall-mg30.webp",
             "description" : "Marshall DSL100HR",
             "price" : "699$",
-            "manufacture" : "Marshall"
+            "manufacture" : "Marshall",
+            "warranty" : "3 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 14,
@@ -127,7 +179,11 @@
             "thumbnails" : "creek oph2.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "199$",
-            "manufacture" : "Creek"
+            "manufacture" : "Creek",
+            "warranty" : "1 Year",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
 
         },
         {
@@ -137,8 +193,11 @@
             "thumbnails" : "creek_a50i.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "199$",
-            "manufacture" : "Creek"
-
+            "manufacture" : "Creek",
+            "warranty" : "1 Year",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 16,
@@ -147,8 +206,11 @@
             "thumbnails" : "creek_classic5350SE.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "139$",
-            "manufacture" : "Creek"
-
+            "manufacture" : "Creek",
+            "warranty" : "1 Year",
+            "deliveryCharge" : "30$",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 17,
@@ -157,8 +219,11 @@
             "thumbnails" : "creek_destinyamp.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "169$",
-            "manufacture" : "Creek"
-
+            "manufacture" : "Creek",
+            "warranty" : "1 Year",
+            "deliveryCharge" : "30$",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 18,
@@ -167,7 +232,11 @@
             "thumbnails" : "Manley_Stingray.jpg",
             "description" : "Manley Stingray",
             "price" : "699$",
-            "manufacture" : "Manley"
+            "manufacture" : "Manley",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 19,
@@ -176,7 +245,11 @@
             "thumbnails" : "Manley-stingray2.jpg",
             "description" : "Manley Stingray II",
             "price" : "1299$",
-            "manufacture" : "Manley"
+            "manufacture" : "Manley",
+            "warranty" : "4 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 20,
@@ -185,7 +258,11 @@
             "thumbnails" : "manley_mahi.jpg",
             "description" : "Harbeth P3ES2",
             "price" : "299$",
-            "manufacture" : "Manley"
+            "manufacture" : "Manley",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 21,
@@ -194,7 +271,11 @@
             "thumbnails" : "manley_neoclassic300b.jpg",
             "description" : "Manley Neoclassic",
             "price" : "499$",
-            "manufacture" : "Manley"
+            "manufacture" : "Manley",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 22,
@@ -203,7 +284,11 @@
             "thumbnails" : "dual dti.webp",
             "description" : "Dual DTJ 303",
             "price" : "899$",
-            "manufacture" : "Dual"
+            "manufacture" : "Dual",
+            "warranty" : "3 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 23,
@@ -212,7 +297,11 @@
             "thumbnails" : "tv 8k.webp",
             "description" : "Sony ZH8 Smart 8k",
             "price" : "2499$",
-            "manufacture" : "Sony"
+            "manufacture" : "Sony",
+            "warranty" : "8 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 24,
@@ -221,7 +310,11 @@
             "thumbnails" : "sony4k.webp",
             "description" : "Sony XH85 4K Ultra HD",
             "price" : "1899$",
-            "manufacture" : "Sony"
+            "manufacture" : "Sony",
+            "warranty" : "5 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "2-5 Working Days",
+            "cardSurcharges" : "No"
         },
         {
             "id" : 25,
@@ -230,7 +323,11 @@
             "thumbnails" : "sony3.jpg",
             "description" : "Sony KE-48A9 OLED",
             "price" : "1299$",
-            "manufacture" : "Sony"
+            "manufacture" : "Sony",
+            "warranty" : "5 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "3-5 Working Days",
+            "cardSurcharges" : "No"
         }
  
     ]

@@ -31,6 +31,10 @@
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Details/main/details-sub.css">
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Details/main/detail-buttons.css">
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Details/main/detail-purchase.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Details/main/checkbox.css">
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Details/main/item-info.css">
+
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Frontpage/Footer/shop-front-footer.css">
 
     <script src="https://kit.fontawesome.com/9b6654b16d.js" crossorigin="anonymous"></script>
     <title>Product Details</title>
@@ -104,14 +108,62 @@
             </div>      
 
             <section class="details__purchase">
+                <div class="purchase__requirement">
+                    <p class="requirement__text-1">Finish</p>
+                    <p class="requirement__text-2">* Required Fields</p>
+                </div>
+                <label class="checkbox__container">Black
+                    <input type="checkbox">
+                    <p class="checkbox__text">Black</p>
+                </label>
+                <label class="checkbox__container">Silver
+                    <input type="checkbox">
+                </label>
+                <div class="purchase__box">
+                    <p class="purchase__amount">Qty:</p>
+                    <input class="purchase__amount-box" type="text">
+                    <button class="purchase__button">ADD TO CART</button>
+                    <p class="purchase__text-2">-OR-</p>
+                    <img class="purchase__paypal" src="/Assets/Images/Background/paypal.jpg" alt="paypal logo">
+                    <vr></vr>
+                </div>
+            </section>
 
+            <section class="item__information">
+                <p class="item__information-title">ADDITIONAL INFORMATION</p>
+                <div class="item__information-container">
+                    <li class="item__information-list"></li>
+                </div>
+                <div class="item__information-container_2">
+                    <ul>
+                        <li class="item__information-list_2">MANUFACTURER</li>
+                        <li class="item__information-list_2">MANUFACTURER</li>
+                        <li class="item__information-list_2">MANUFACTURER</li>
+                        <li class="item__information-list_2">MANUFACTURER</li>
+                    </ul>
+                    </div>
             </section>
         </section> -->
     </main>
-    <div class="purchase__requirement">
-        <p class="requirement__text-1">Finish</p>
-        <p class="requirement__text-2">Required Fields</p>
-    </div>
+
+    <section class="footer__container">
+        <footer class="footer">
+            <div class="footer__credits">
+                <p class="footer__credits-text_1">Hi-Fi Corner <br>Edinburgh 1a Haddington Place EH7 4AE <br> Falkirk 44 Cow Wynd FK1 1PU</p>
+                <p class="footer__credits-text_2">RETURNS & REFUNDS</p>
+            </div>
+            <div class="footer__icons">
+                <img class="footer__image" src="/Assets/Images/Background/pay_logos.png" alt="">
+                <div class="small__images">
+                    <img class="footer__small-image" src="/Assets/Images/socials/footer-facebook.png" alt="">
+                    <img class="footer__small-image" src="/Assets/Images/socials/footer-linkedin.png" alt="">
+                    <img class="footer__small-image" src="/Assets/Images/socials/footer-twitter.png" alt="">
+                    <img class="footer__small-image" src="/Assets/Images/socials/footer-youtube.png" alt="">
+                </div>
+            </div>
+        </footer>
+    </section>
+
 <script src="/Common-Blocks/Shop/Shop-Details/details.js"></script>
 </body>
 </html>

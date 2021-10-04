@@ -1,6 +1,5 @@
 .main__image-section
 {
-    border: blue solid;
     height: 700px;
     width: 50%;
     order: 1;
@@ -12,5 +11,5 @@
     height: 100%;
     object-fit: contain;
     image-rendering: high-quality;
-    border: burlywood solid thin;
+    border: lightgrey solid thin;
 }
