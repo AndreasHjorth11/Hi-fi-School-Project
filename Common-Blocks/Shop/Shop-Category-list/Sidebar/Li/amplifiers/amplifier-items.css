@@ -1,6 +1,7 @@
 .amplifier__items
 {
     margin-left: 30px;
-    margin: 15px;
+    margin: 0px;
     cursor: pointer;
+    text-decoration: none;
 }
