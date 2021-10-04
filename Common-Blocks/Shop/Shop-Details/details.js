@@ -85,7 +85,9 @@ fetch('/Common-Blocks/Shop/shop.json')
 
         if(element.id == category){
             itemCategory.innerHTML = `
+            <a href="/Common-Blocks/Shop/Shop-Category-list/shop-category.html?category=${element.title}" style="text-decoration: none; color: yellowgreen;">
             <strong class="category__amplifiers">${element.title}</strong>
+            </a>
             `;
         }
 

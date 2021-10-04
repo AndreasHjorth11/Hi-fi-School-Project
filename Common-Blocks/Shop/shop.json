@@ -328,6 +328,45 @@
             "deliveryCharge" : "Free",
             "deliveryTime" : "3-5 Working Days",
             "cardSurcharges" : "No"
+        },
+        {
+            "id" : 26,
+            "title" : "CD-Players",
+            "productTitle" : "Yamaha CD-NT670D",
+            "thumbnails" : "yamaha cd.jpg",
+            "description" : "Yamaha CD-NT670D",
+            "price" : "899$",
+            "manufacture" : "Yamaha",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "Free",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
+        },
+        {
+            "id" : 27,
+            "title" : "Cables",
+            "productTitle" : "Pro Snake 17593 Audio Cable",
+            "thumbnails" : "cable1.webp",
+            "description" : "Pro Snake Audio Cable",
+            "price" : "39$",
+            "manufacture" : "Pro Snake",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
+        },
+        {
+            "id" : 28,
+            "title" : "Headphones",
+            "productTitle" : "JBL Tune 750BT",
+            "thumbnails" : "jblHead.jpg",
+            "description" : "JBL Tune 750BT Bluetooth",
+            "price" : "199$",
+            "manufacture" : "JBL",
+            "warranty" : "2 Years",
+            "deliveryCharge" : "25$",
+            "deliveryTime" : "1-5 Working Days",
+            "cardSurcharges" : "No"
         }
  
     ]
