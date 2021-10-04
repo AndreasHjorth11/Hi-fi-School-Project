@@ -3,19 +3,82 @@
     border: black solid thin;
     height: 500px;
     margin-top: 30px;
+    width: 94%;
+    float: right;
 }
 
-.purchase__requirements
+.purchase__requirement
 {
-
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    font-size: 18px;
 }
 
 .requirement__text-1
 {
-
+    color: burlywood;
 }
 
 .requirement__text-2
 {
+    color: red;
+}
 
+.purchase__box
+{
+    background-color: rgb(224, 224, 224);
+    height: 313px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.purchase__amount
+{
+    color: rgb(139, 102, 54);
+    font-weight: bold;
+    margin: 30px;
+    margin-top: 35px;
+    font-size: 17px;
+}
+
+.purchase__amount-box
+{
+    height: 40px;
+    width: 40px;
+    margin-top: 20px;
+    margin-left: -10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.purchase__button
+{
+    height: 45px;
+    width: 160px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: burlywood;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.purchase__text-2
+{
+    color: rgb(139, 102, 54);
+    margin-top: 80px;
+    margin-left: -100px;
+    font-size: 20px;
+}
+
+.purchase__paypal
+{
+    width: 180px;
+    height: 55px;
+    align-self: center;
+    margin-left: -105px;
+    image-rendering: smooth;
 }

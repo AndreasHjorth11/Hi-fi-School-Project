@@ -8,6 +8,11 @@
     display: flex;
 }
 
+.shop__category-sidebar a
+{
+    text-decoration: none;
+}
+
 .shop__category-sidebar2
 {
     height: 700px;

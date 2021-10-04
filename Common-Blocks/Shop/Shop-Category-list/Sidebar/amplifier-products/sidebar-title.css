@@ -1,6 +1,8 @@
 .sidebar__category-title
 {
     font-weight: bold;
-    margin-right: 100px;
+    margin: -1px;
+    margin-left: 50px;
+    text-decoration: none;
     cursor: pointer;
 }

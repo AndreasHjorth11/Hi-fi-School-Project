@@ -34,7 +34,50 @@ fetch('/Common-Blocks/Shop/shop.json')
                 </div>      
 
                 <section class="details__purchase">
-                
+                <div class="purchase__requirement">
+                    <p class="requirement__text-1">Finish</p>
+                    <p class="requirement__text-2">* Required Fields</p>
+                </div>
+                <label class="checkbox__container">
+                    <input class="checkbox" type="checkbox">
+                    <p class="checkbox__text">Black</p>
+                </label>
+                <label class="checkbox__container">
+                    <input class="checkbox" type="checkbox">
+                    <p class="checkbox__text">Silver</p>
+                </label>
+                <div class="purchase__box">
+                    <p class="purchase__amount">Qty:</p>
+                    <input class="purchase__amount-box" type="number">
+                    <button class="purchase__button">ADD TO CART</button>
+                    <p class="purchase__text-2">-OR-</p>
+                    <img class="purchase__paypal" src="/Assets/Images/Background/paypal.jpg" alt="paypal logo">
+                </div>
+                </section>
+
+                <section class="item__information">
+                    <p class="item__information-title">ADDITIONAL INFORMATION</p>
+                    <div class="item__information-container">
+                    <ul>
+                        <li class="item__information-list">MANUFACTURER</li>
+                        <li class="item__information-list">MANUFACTURER LINK</li>
+                        <li class="item__information-list">FREE WARRANTY</li>
+                        <li class="item__information-list">DELIVERY CHARGE</li>
+                        <li class="item__information-list">DELIVERY TIME</li>
+                        <li class="item__information-list">CARD SURCHARGES</li>
+                    </ul>
+
+                    <div class="item__information-container_2">
+                    <ul>
+                        <li class="item__information-list_2">${element.manufacture}</li>
+                        <li class="item__information-list_2 link__placeholder">Placeholder</li>
+                        <li class="item__information-list_2">${element.warranty}</li>
+                        <li class="item__information-list_2">${element.deliveryCharge}</li>
+                        <li class="item__information-list_2">${element.deliveryTime}</li>
+                        <li class="item__information-list_2">${element.cardSurcharges}</li>
+                    </ul>
+                    </div>
+                    </div>
                 </section>
             </section>
             `;
@@ -42,7 +85,9 @@ fetch('/Common-Blocks/Shop/shop.json')
 
         if(element.id == category){
             itemCategory.innerHTML = `
+            <a href="/Common-Blocks/Shop/Shop-Category-list/shop-category.html?category=${element.title}" style="text-decoration: none; color: yellowgreen;">
             <strong class="category__amplifiers">${element.title}</strong>
+            </a>
             `;
         }
 

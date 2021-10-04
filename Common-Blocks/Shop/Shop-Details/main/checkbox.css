@@ -1,0 +1,26 @@
+.checkbox__container
+{
+    display: flex;
+    background-color: lightgrey;
+    position: relative;
+    width: 300px;
+    height: 40px;
+    margin: 10px;
+    justify-content: center;
+}
+
+.checkbox
+{
+    position: absolute;
+    margin: 10px;
+    margin-left: -230px;
+    align-self: center;
+    cursor: pointer;
+}
+
+.checkbox__text
+{
+    font-weight: bold;
+    align-self: center;
+    margin-left: -130px;
+}

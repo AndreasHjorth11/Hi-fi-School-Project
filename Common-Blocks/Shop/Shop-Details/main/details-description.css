@@ -1,7 +1,6 @@
 .main__description
 {
-    border: green solid;
-    height: 900px;
+    height: 1400px;
     width: 45%;
     order: 2;
     display: inline;

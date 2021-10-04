@@ -47,6 +47,8 @@
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/Widebar/widebar-items/widebar-item-itemsNumber.css">
     <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Category-list/Widebar/widebar-items/widebar-item-show.css">
 
+    <link rel="stylesheet" href="/Common-Blocks/Shop/Shop-Frontpage/Footer/shop-front-footer.css">
+
     <title>Shop Category</title>
 
     <script src="https://kit.fontawesome.com/9b6654b16d.js" crossorigin="anonymous"></script>
@@ -71,7 +73,7 @@
 
     <nav class="shop__front-navigation">
         <ul class="navigation__ul-item">
-            <li class="navigation__list-item">HOME</li>
+            <a href="/index.html" style="text-decoration: none;"><li class="navigation__list-item">HOME</li></a>
             <li class="navigation__list-item">ABOUT US</li>
             <li class="navigation__list-item">BRANDS</li>
             <li class="navigation__list-item">BLOG</li>
@@ -83,7 +85,7 @@
     <section class="breadcrumbs">
         <ul class="breadcrumbs__items">
             <li class="breadcrumbs__items-home">
-                <a href="/index.html" style="text-decoration: none; color: yellowgreen;">Home</a>
+                <a href="/Common-Blocks/Shop/Shop-Frontpage/shop-front.html" style="text-decoration: none; color: yellowgreen;">Home</a>
             </li>
             <vr style="font-weight: bold; font-size: 20px;"> / </vr>
             <li id="item__category" class="item__category">
@@ -93,42 +95,45 @@
     </section>
     
     <section class="shop__category-sidebar">
-    <ul class="sidebar__ul">
-        <li id="sidebar__li" class="sidebar__li">
-            <p class="sidebar__category-title">Amplifier</p>
-            <p class="amplifier__items">Integrated Amplifiers</p>
-            <p class="amplifier__items">Power Amplifiers</p>
-            <p class="amplifier__items">Pre Amplifiers</p>
-            <p class="amplifier__items">Tube Amplifiers</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">Speakers</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">Turntables</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">CD-Players</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">DVD-Players</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">Cables</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">TV</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">Vinyl</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">Home Cinema</p>
-        </li>
-        <li class="sidebar__li">
-            <p class="sidebar__category-title">Headphones</p>
-        </li>
-    </ul>
+        <div id="link">
+        <!-- <ul id="sidebar__link" class="sidebar__ul">
+                <li id="sidebar__li" class="sidebar__li">
+                <p class="sidebar__category-title">Amplifier</p>
+                <p class="amplifier__items">Integrated Amplifiers</p>
+                <p class="amplifier__items">Power Amplifiers</p>
+                <p class="amplifier__items">Pre Amplifiers</p>
+                <p class="amplifier__items">Tube Amplifiers</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title" style="text-decoration: none;">Speakers</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title">Turntables</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title">CD-Players</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title">DVD-Players</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title">Cables</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title">TV</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title">Vinyl</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title">Home Cinema</p>
+            </li>
+            <li class="sidebar__li">
+                <p class="sidebar__category-title">Headphones</p>
+            </li>
+        </a>
+    </ul> -->
+</div>
 </section>
 <section class="shop__category-widebar">
     <div id="widebar__title">
@@ -148,13 +153,30 @@
     </div>
 </section>
 <section class="shop__category-sidebar2">
-
+    
+</section>
+<section class="footer__container">
+    <footer class="footer">
+        <div class="footer__credits">
+            <p class="footer__credits-text_1">Hi-Fi Corner <br>Edinburgh 1a Haddington Place EH7 4AE <br> Falkirk 44 Cow Wynd FK1 1PU</p>
+            <p class="footer__credits-text_2">RETURNS & REFUNDS</p>
+        </div>
+        <div class="footer__icons">
+            <img class="footer__image" src="/Assets/Images/Background/pay_logos.png" alt="">
+            <div class="small__images">
+                <img class="footer__small-image" src="/Assets/Images/socials/footer-facebook.png" alt="">
+                <img class="footer__small-image" src="/Assets/Images/socials/footer-linkedin.png" alt="">
+                <img class="footer__small-image" src="/Assets/Images/socials/footer-twitter.png" alt="">
+                <img class="footer__small-image" src="/Assets/Images/socials/footer-youtube.png" alt="">
+            </div>
+        </div>
+    </footer>
 </section>
 <article id="item__product" class="shop__category-products">
     <div id="product__details"  class="products__details">
         <!-- <a href="/Common-Blocks/Shop/Shop-Details/details.html" style="text-decoration: none; color: black;"> -->
-        <!-- <ul class="products__ul"> -->
-            <!-- <li class="products__li"> -->
+            <!-- <ul class="products__ul"> -->
+                <!-- <li class="products__li"> -->
                 
                 <!-- <div class="product__item-info">
                     
@@ -292,6 +314,8 @@
     </a>
 </div>
 </article>
+
+
 <script src="/Common-Blocks/Shop/Shop-Category-list/sidebar-products.js"></script>
 <script src="/Common-Blocks/Shop/Shop-Category-list/products.js"></script>
 </body>
