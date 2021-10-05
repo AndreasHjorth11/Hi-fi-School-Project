@@ -1,0 +1,9 @@
+.front__navigation
+{
+    
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    position: relative;
+    margin-top: -850px;
+}

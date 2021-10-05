@@ -1,0 +1,19 @@
+.banner__section-4
+{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.section__4-images
+{
+
+}
+
+.section__image
+{
+    width: 630px;
+    height: 680px;
+    margin: 0;
+    object-fit: cover;
+}
