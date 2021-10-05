@@ -1,0 +1,20 @@
+.banner__section-2
+{
+    margin-top: 750px;
+    overflow: hidden;
+    position: relative;
+}
+
+.banner__2-text
+{
+    color: white;
+    margin-top: -300px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text__specs
+{
+    display: flex;
+    justify-content: center;
+}

@@ -17,14 +17,29 @@ fetch('/Common-Blocks/Shop/shop.json')
         `; 
         }
         
+        else if(element.description == category){
+            widebarTitle.innerHTML = ` 
+            <strong class="widebar__title">${element.description}</strong>
+        `; 
+        }
         if(element.title == category){
             itemCategory.innerHTML = `
             <strong class="category__amplifiers">${element.title}</strong>
             `;
         }
 
+        
+        else if(element.description == category){
+            itemCategory.innerHTML = `
+            <strong class="category__amplifiers">${element.description}</strong>
+            `;
+            console.log("test");
+        }
+        
+
+
+
         if(element.title == category){
-            console.log("test")
             itemProduct.innerHTML += `
             <a href="/Common-Blocks/Shop/Shop-Details/details.html?category=${element.id}" style="text-decoration: none; color: black;">
                 <div id="item__product" class="product__item-info">
@@ -40,5 +55,24 @@ fetch('/Common-Blocks/Shop/shop.json')
             </a>
         `;
         }
+
+        else if(element.description == category){
+    
+            itemProduct.innerHTML += `
+            <a href="/Common-Blocks/Shop/Shop-Details/details.html?category=${element.id}" style="text-decoration: none; color: black;">
+                <div id="item__product" class="product__item-info">
+                    <span class="product__image-container">
+                        <img class="product__image" src="/Assets/Images/Products/${element.thumbnails}">
+                    </span>
+                    <div class="product__specs">
+                        <p class="product__title">${element.productTitle}</p>
+                        <p class="product__price">${element.price}</p>
+                        <button class="product__buy-button">ADD TO CART</button>
+                    </div>
+                </div>
+            </a>
+        `;
+        }
+
     });
 });

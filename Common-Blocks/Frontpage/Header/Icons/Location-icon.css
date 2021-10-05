@@ -1,7 +1,18 @@
 
+.header__icons
+{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: -880px;
+    width: 97%;
+}
 .header__location-icon
 {
-    color: black;
-    font-size: 50px;
+    color: white;
+    font-size: 30px;;
     left: 100px;
+    margin: 0px;
+    margin-left: 30px;
+    cursor: pointer;
 }

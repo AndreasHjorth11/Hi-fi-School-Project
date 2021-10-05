@@ -1,0 +1,35 @@
+.banner__section-4
+{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    overflow: hidden;
+}
+
+.section__4-images
+{
+    position: relative;
+}
+
+.section__image
+{
+    width: 630px;
+    height: 680px;
+    margin: 0;
+    object-fit: cover;
+}
+
+.section__4-icons
+{
+    display: flex;
+    position: absolute;
+    overflow: hidden;
+}
+
+.section__icon
+{
+    margin-top: 290px;
+    margin-left: 220px;
+    margin-right: 190px;
+    overflow: hidden;
+}

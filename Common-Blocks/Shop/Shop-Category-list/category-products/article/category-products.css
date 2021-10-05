@@ -1,12 +1,21 @@
+
+
 .shop__category-products
 {
     max-width: 1000px;
-    height: 1000px;
-    position: relative;
+    max-height: 1100px;
+    position: absolute;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 0px;
-    margin-left: 26%;
+    margin-left: 24.6%;
     margin-top: -78rem;
+    border: black solid thin;
+    overflow: scroll;
+}
+
+.shop__category-products::-webkit-scrollbar
+{
+    display: none;
 }

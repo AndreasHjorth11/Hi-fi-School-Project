@@ -4,7 +4,8 @@ let category = params.get("category")
 
 let Details = document.querySelector("#details-main");
 let itemCategory = document.querySelector("#item__category");
-let product = document.querySelector("#item__product-title")
+let product = document.querySelector("#item__product-title");
+let homeLink = document.querySelector("#details__home-link");
 
 fetch('/Common-Blocks/Shop/shop.json')
 .then(response => response.json())
@@ -96,6 +97,15 @@ fetch('/Common-Blocks/Shop/shop.json')
             <strong class="product__category__title">${element.productTitle}</strong>
             `;
         }
+
+        if(element.id == category){
+            homeLink.innerHTML = `
+            <a href="/Common-Blocks/Shop/Shop-Category-list/shop-category.html?category=${element.description}" style="text-decoration: none; color: yellowgreen;">Home</a>
+            `;
+        }
+
+
+        
         
     });
 });
