@@ -20,4 +20,6 @@
     margin-top: 580px;
     margin-left: 50px;
     background-color: lightgrey;
+    display: flex;
 }
+

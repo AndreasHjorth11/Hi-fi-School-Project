@@ -1,9 +1,5 @@
 
-.footer__container
-{
-    position: relative;
-    
-}
+
 
 .footer
 {
@@ -12,7 +8,7 @@
     height: 100px;
     opacity: 100%;
     position: absolute;
-    bottom: 0;;
+    bottom: 0;
 }
 
 .footer__credits
