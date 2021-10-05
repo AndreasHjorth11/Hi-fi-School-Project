@@ -9,3 +9,4 @@
 ## 1. Category Javascript
 Her Fetches der data fra en JSON Fil fra et kategori Array hvor den finder "category" som sender brugeren videre til den kategori de har kligget på.
 
+

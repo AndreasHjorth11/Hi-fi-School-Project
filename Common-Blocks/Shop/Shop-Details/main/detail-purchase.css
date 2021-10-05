@@ -81,4 +81,5 @@
     align-self: center;
     margin-left: -105px;
     image-rendering: smooth;
+    cursor: pointer;
 }
