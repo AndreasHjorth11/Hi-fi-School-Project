@@ -8,7 +8,7 @@ fetch('/Common-Blocks/Shop/category.json')
 .then((response) => response.json())
 .then((data) => {
     data.categories.forEach(element => {
-        console.log("test");
+        console.log();
         mainElement.innerHTML += `
         <a href="/Common-Blocks/Shop/Shop-Category-list/shop-category.html?category=${element.category}">
         <section id="main__image-section" class="main__image-section">

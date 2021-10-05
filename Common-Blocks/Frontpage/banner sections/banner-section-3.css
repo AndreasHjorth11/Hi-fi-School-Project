@@ -1,4 +1,25 @@
 .banner__sections-3
 {
     margin-top: 900px;
+    overflow: hidden;
+}
+
+.section__3-icon
+{
+    font-size: 100px;
+    margin-top: -370px;
+    margin-left: 50px;
+    margin-right: 50px;
+    overflow: hidden;
+    font-weight: bold;
+    color: burlywood;
+    cursor: pointer;
+}
+
+.icon__container
+{
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
 }
