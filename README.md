@@ -6,5 +6,6 @@
 
 # Shop Page
 ![image](https://user-images.githubusercontent.com/77662628/158343682-fbc427bc-1b07-4222-8588-9718433be667.png)
-![image](https://user-images.githubusercontent.com/77662628/158343913-33a83af0-51e8-4a38-84ab-2f4b36fc3291.png)
+![image](https://user-images.githubusercontent.com/77662628/158343913-33a83af0-51e8-4a38-84ab-2f4b36fc3291.png) ![image](https://user-images.githubusercontent.com/77662628/158344094-fe148866-45e0-4f0b-a102-41661e502dd4.png)
+
 
